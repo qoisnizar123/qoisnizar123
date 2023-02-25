@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Qois Nizar Mahendra!
-Currently working in [SMK NU Tulungagung](https://smknu-tulungagung.sch.id), but I love learn new thing in programming such as Javascript, PHP, Python.  
+Currently working in [Djavasoft](https://djavasoft.com), [Exrush](https://exrush.com) and [SMK NU Tulungagung](https://smknu-tulungagung.sch.id), but I love learn new thing in programming such as Javascript, PHP, Python.  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=false&vCenter=false&width=600&lines=Hi+there+👋,+I+am+Qois+Nizar+Mahendra;+Welcome+to+My+Profile!(https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=false&vCenter=false&width=600&lines=Hi+there+👋,+I+am+Anton+Arizal;+Welcome+to+My+Profile!;Im+Software+Developer;And+Teacher+of+SMK+NU+Tulungagung;........)](https://git.io/typing-svg)
 
 ### Tools:
 <p>
@@ -48,15 +48,15 @@ Currently working in [SMK NU Tulungagung](https://smknu-tulungagung.sch.id), but
 
 ### 📈 GitHub Activity Graph:
 
-[![Zulfikar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonarizal&bg_color=0f0008&color=ffffff&line=c80eb9&point=28ccc1&area=true&hide_border=true)](https://github.com/antonarizal/github-readme-activity-graph)
+[![Zulfikar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=muhamadhanifnurf&bg_color=0f0008&color=ffffff&line=c80eb9&point=28ccc1&area=true&hide_border=true)](https://github.com/muhamadhanifnurf/github-readme-activity-graph)
 
 | .                                                                                                                                        | .                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| <a href="http://www.github.com/antonarizal"><img src="https://github-readme-stats.vercel.app/api?username=antonarizal&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ef4444&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="antonarizal's GitHub stats" /></a> | [![GitHub Streak](https://streak-stats.demolab.com?user=antonarizal&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&sideNums=DD0080&currStreakNum=DD10C2&currStreakLabel=34DD4A&ring=DC0EDD&dates=DDABAB&stroke=55DDD4)](https://git.io/streak-stats) |
+| <a href="http://www.github.com/qoisnizar123"><img src="https://github-readme-stats.vercel.app/api?username=muhamadhanifnurf&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ef4444&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="qoisnizar123's GitHub stats" /></a> | [![GitHub Streak](https://streak-stats.demolab.com?user=muhamadhanifnurf&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&sideNums=DD0080&currStreakNum=DD10C2&currStreakLabel=34DD4A&ring=DC0EDD&dates=DDABAB&stroke=55DDD4)](https://git.io/streak-stats) |
 
 ### Let's connect!
 <p>
-    <a href="https://antonarizal.blogspot.com" target="blank"><img src="https://img.shields.io/badge/Website-https://antonarizal.blogspot.com-green?" /></a>
+    <a href="https://muhamadhanifnurf.blogspot.com" target="blank"><img src="https://img.shields.io/badge/Website-https://muhamadhanifnurf.blogspot.com-green?" /></a>
     <a href="https://linkeding.com/antonarizal" target="blank"><img src="https://img.shields.io/badge/Anton_Arizal-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Anton_Arizal-30302f?style=flat&logo=medium" /></a>
     <a href="https://twitter.com/antonarizal" target="blank"><img src="https://img.shields.io/badge/@antonarizal_-30302f?style=flat&logo=twitter" /></a>
