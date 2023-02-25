@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Qois Nizar Mahendra!
 Currently working in [Djavasoft](https://djavasoft.com), [Exrush](https://exrush.com) and [SMK NU Tulungagung](https://smknu-tulungagung.sch.id), but I love learn new thing in programming such as Javascript, PHP, Python.  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=false&vCenter=false&width=600&lines=Hi+there+👋,+I+am+Anton+Arizal;+Welcome+to+My+Profile!;Im+Software+Developer;And+Teacher+of+SMK+NU+Tulungagung;........)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=false&vCenter=false&width=600&lines=Hi+there+👋,+I+am+Qois+Nizar+Mahendra;+Welcome+to+My+Profile!;Im+Software+Developer;And+Teacher+of+SMK+NU+Tulungagung;........)](https://git.io/typing-svg)
 
 ### Tools:
 <p>
@@ -56,7 +56,7 @@ Currently working in [Djavasoft](https://djavasoft.com), [Exrush](https://exrush
 
 ### Let's connect!
 <p>
-    <a href="https://muhamadhanifnurf.blogspot.com" target="blank"><img src="https://img.shields.io/badge/Website-https://muhamadhanifnurf.blogspot.com-green?" /></a>
+    <a href="https://qoisnizarmahendra.blogspot.com" target="blank"><img src="https://img.shields.io/badge/Website-https://muhamadhanifnurf.blogspot.com-green?" /></a>
     <a href="https://linkeding.com/antonarizal" target="blank"><img src="https://img.shields.io/badge/Anton_Arizal-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Anton_Arizal-30302f?style=flat&logo=medium" /></a>
     <a href="https://twitter.com/antonarizal" target="blank"><img src="https://img.shields.io/badge/@antonarizal_-30302f?style=flat&logo=twitter" /></a>
