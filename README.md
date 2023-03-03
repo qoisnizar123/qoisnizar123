@@ -55,7 +55,7 @@ Currently I'm still studying at [SMK NU Tulungagung](https://smknu-tulungagung.s
 
 ### Let's connect!
 <p>
-    <a href="https://qoisnizarmahendra.blogspot.com" target="blank"><img src="https://img.shields.io/badge/Website-https://muhamadhanifnurf.blogspot.com-green?" /></a>
+    <a href="https://qoisnizarmahendra.blogspot.com" target="blank"><img src="https://img.shields.io/badge/Website-https://qoisnizarmahendra.blogspot.com-green?" /></a>
     <a href="https://linkeding.com/antonarizal" target="blank"><img src="https://img.shields.io/badge/Anton_Arizal-30302f?style=flat&logo=linkedin" /></a>
 <!--     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Anton_Arizal-30302f?style=flat&logo=medium" /></a> -->
     <a href="https://twitter.com/hanif8351" target="blank"><img src="https://img.shields.io/badge/@hanif8351_-30302f?style=flat&logo=twitter" /></a>
