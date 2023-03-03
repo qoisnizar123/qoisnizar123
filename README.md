@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Qois Nizar Mahendra!
 Currently I'm still studying at [SMK NU Tulungagung](https://smknu-tulungagung.sch.id), but I love learn new thing in programming such as Javascript, PHP, Python.  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=false&vCenter=false&width=600&lines=Hi+there+👋,+I+am+Hanif+Nur+Fahri;+Welcome+to+My+Profile!;Im+Junior+Backend+Developer;And+Student+of+SMK+NU+Tulungagung;........)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=false&vCenter=false&width=600&lines=Hi+there+👋,+I+am+Qois+Nizar+Mahendra;+Welcome+to+My+Profile!;Im+Junior+Backend+Developer;And+Student+of+SMK+NU+Tulungagung;........)](https://git.io/typing-svg)
 
 ### Tools:
 <p>
