@@ -14,16 +14,7 @@ Currently I'm still studying at **UNIVERSITAS BHINNEKA PGRI TULUNGAGUNG**, but I
 ##### My Github Stats
 ![qoisnizarmahendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=qoisnizar123&show_icons=true&theme=gruvbox)
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qoisnizar123/qoisnizar123/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qoisnizar123/qoisnizar123/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qoisnizar123/qoisnizar123/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
+### Play Games With Me
 <img src="https://raw.githubusercontent.com/qoisnizar123/qoisnizar123/output/snake.svg" alt="Snake animation" />
 
 ###
