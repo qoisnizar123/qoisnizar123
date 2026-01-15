@@ -19,7 +19,7 @@ Currently I'm still studying at **UNIVERSITAS BHINNEKA PGRI TULUNGAGUNG**, but I
 ![](https://github-profile-trophy.vercel.app/?username=qoisnizar123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=qoisnizar123&limit=5&theme=dark&combine_all_yearly_contributions=true)
